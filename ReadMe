@@ -1,0 +1,3 @@
+Yardımcı paket olara k ekran boutlarının responsive olması için screen util dosyasını kullandım
+json işlemleri için htpp dosyasını kurdum ve home sınıfımda servis işlemleri yaptım model sayfsaında ise gel jsonları dart diline çevirdim
+girilen url leri list yöntemi ile kontroller yaparak ekledim.
